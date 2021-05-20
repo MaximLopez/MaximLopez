@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on Unreal Engine 4.26
+- 🌱 I’m currently learning C++
+
 <!--
 **MaximLopez/MaximLopez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
