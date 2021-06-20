@@ -2,7 +2,7 @@
 -> [https://maximlopez.github.io/MaximLopez/](https://maximlopez.github.io/MaximLopez/)
 
 - 🔭 I’m currently working on Unreal Engine 4.26
-- 🌱 I’m currently learning C++
+- 🌱 I’m currently learning C++ and C#
 
 <!--
 **MaximLopez/MaximLopez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
