@@ -1,8 +1,9 @@
 ### Hi there 👋
 -> [https://maximlopez.github.io/MaximLopez/](https://maximlopez.github.io/MaximLopez/)
 
-- 🔭 I’m currently working on Unreal Engine 4.27 for my next game, KAKUDO
-- 🌱 I’m currently learning C++/C#/WPF/.Net 4.78 and Unity Engine
+- 🔭 I’m currently working on Unreal Engine 5.2 for my next game
+- 🌱 I’m currently learning C++ & and Unity Engine
+- ⚡ Fun fact: My first commercial game, KAKUDO, is out!
 
 <!--
 **MaximLopez/MaximLopez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
