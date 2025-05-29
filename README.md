@@ -1,7 +1,7 @@
 ### Hi there 👋
 -> [https://maximlopez.github.io/MaximLopez/](https://maximlopez.github.io/MaximLopez/)
 
-- 🔭 I’m currently working on Unreal Engine 5.2 for my next game
+- 🔭 I’m currently working on Unreal Engine 5.5 for my next game
 - 🌱 I’m currently learning C++ & Unity Engine
 - ⚡ Fun fact: My first commercial game, KAKUDO, is out!
 
